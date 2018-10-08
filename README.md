@@ -1,4 +1,4 @@
-# Course Notes
+# 📓✏️ Course Notes
 
 My course notes written in OneNote
 
